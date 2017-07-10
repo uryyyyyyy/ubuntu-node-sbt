@@ -1,5 +1,5 @@
 
-FROM uryyyyyyy/ubuntu-nodejsall:latest
+FROM uryyyyyyy/ubuntu-nodejsall:0.1.0
 
 RUN set -x && \
   apt-get install -y software-properties-common && \
